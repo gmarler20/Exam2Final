@@ -1,0 +1,12 @@
+﻿  Exam2Final.cpp
+c:\users\cathy\desktop\exam2final\exam2final\exam2final.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\exam2final\exam2final\exam2final.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\exam2final\exam2final\exam2final.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\exam2final\exam2final\exam2final.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\exam2final\exam2final\exam2final.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\exam2final\exam2final\exam2final.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\exam2final\exam2final\exam2final.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\exam2final\exam2final\exam2final.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\exam2final\exam2final\exam2final.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\exam2final\exam2final\exam2final.cpp(168): warning C4018: '<': signed/unsigned mismatch
+  Exam2Final.vcxproj -> C:\Users\cathy\Desktop\Exam2Final\Debug\Exam2Final.exe
